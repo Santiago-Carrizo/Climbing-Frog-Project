@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClimbingFrog</string>
+    <string name="puntuacion">Score</string>
+    <string name="btnJugar">Play</string>
+    <string name="btnLadeboard">Ranking</string>
+    <string name="btnInfinito">Infinite</string>
+    <string name="btnFacil">Easy</string>
+    <string name="btnNormal">Normal</string>
+    <string name="btnDificil">Hard</string>
+    <string name="btnCreditos">Credits</string>
+    <string name="saltos">Jumps</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="volver">Main menu</string>
+    <string name="programador">Programmer</string>
+    <string name="artista">Artist</string>
+    <string name="compositor">Composser</string>
+    <string name="fuentes">Fonts</string>
+    <string name="suerte">Good luck</string>
+    <string name="perder">You lost...</string>
+    <string name="ganar">You won!!</string>
+    <string name="pausa">Pause</string>
+    <string name="explicacionRana1">The frog must climb a waterfall</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="explicacionRana2">jumping and once in the</string>
+    <string name="explicacionRana4">You as a player must help you</string>
+    <string name="explicacionRana3">air must fall on the rocks.</string>
+    <string name="explicacionRana5">of the gyroscope to guide it.</string>
+    <string name="explicacionPlat1">The rocks remain</string>
+    <string name="explicacionPlat2">motionless but every time</string>
+    <string name="explicacionPlat3">the frog jump will appear a</string>
+    <string name="explicacionPlat4">in different place.</string>
+    <string name="explicacionPlat5">During the jump the rock</string>
+    <string name="explicacionPlat6">will have an arrow indicating</string>
+    <string name="explicacionPlat7">the type of jump</string>
+    <string name="explicacionRanaR1">If you hold down the frog</string>
+    <string name="explicacionRanaR2">will load the jump</string>
+    <string name="explicacionPlatA1">If it has an up arrow</string>
+    <string name="explicacionPlatA2">should give a single touch.</string>
+    <string name="explicacionPlatB1">If the arrow is down</string>
+    <string name="explicacionPlatB2">Hold to jump higher.</string>
+    <string name="explicacionObj1">The goal is reach 100 points</string>
+    <string name="explicacionObj2">but if you fall you lose</string>
+    <string name="explicacionObj3">a life if you stay sin</string>
+    <string name="explicacionObj4">Lives game over.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClimbingFrog</string>
+    <string name="puntuacion">Puntuación</string>
+    <string name="btnJugar">Jugar</string>
+    <string name="btnLadeboard">Ranking</string>
+    <string name="btnInfinito">Infinito</string>
+    <string name="btnFacil">Facil</string>
+    <string name="btnNormal">Normal</string>
+    <string name="btnDificil">Dificil</string>
+    <string name="btnCreditos">Creditos</string>
+    <string name="saltos">Saltos</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="volver">Menu principal</string>
+    <string name="programador">Programador</string>
+    <string name="artista">Artista</string>
+    <string name="compositor">Compositor</string>
+    <string name="fuentes">Fuentes</string>
+    <string name="suerte">Mucha suerte</string>
+    <string name="perder">Perdiste...</string>
+    <string name="ganar">Ganaste!!</string>
+    <string name="pausa">Pausa</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="explicacionRana1">La rana debe escalar la cascada</string>
+    <string name="explicacionRana2">dando saltos y una vez en el</string>
+    <string name="explicacionRana3">aire debe caer en las rocas.</string>
+    <string name="explicacionRana4">Como jugador debes ayudarte</string>
+    <string name="explicacionRana5">del giroscopio para guiarla.</string>
+    <string name="explicacionPlat1">Las rocas se mantienen</string>
+    <string name="explicacionPlat2">inmoviles pero cada vez que</string>
+    <string name="explicacionPlat3">la rana salte aparecera una</string>
+    <string name="explicacionPlat4">en diferente sitio.</string>
+    <string name="explicacionPlat5">Durante el salto la roca</string>
+    <string name="explicacionPlat6">tendra una flecha que indicara</string>
+    <string name="explicacionPlat7">el tipo de salto.</string>
+    <string name="explicacionRanaR1">Si mantienes pulsado la rana</string>
+    <string name="explicacionRanaR2">cargara el salto.</string>
+    <string name="explicacionPlatA1">Si tiene una flecha arriba se</string>
+    <string name="explicacionPlatA2">debe dar un solo toque.</string>
+    <string name="explicacionPlatB1">Si la flecha es hacia abajo</string>
+    <string name="explicacionPlatB2">manten para saltar mas alto.</string>
+    <string name="explicacionObj1">La meta es llegar a 100 puntos</string>
+    <string name="explicacionObj2">pero si caes al agua perderas</string>
+    <string name="explicacionObj3">una vida. Si te quedas sin</string>
+    <string name="explicacionObj4">vidas se termina el juego.</string>
+</resources>
